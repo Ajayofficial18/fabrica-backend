@@ -7,9 +7,7 @@ Fabrica Backend is a Java Spring Boot project designed to serve as the backend f
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - User authentication and authorization(future enhancement)
