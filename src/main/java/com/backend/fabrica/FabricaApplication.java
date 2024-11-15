@@ -9,7 +9,6 @@ public class FabricaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FabricaApplication.class, args);
 		System.out.println("======started=========");
-		
 	}
 
 }
